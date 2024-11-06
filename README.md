@@ -16,32 +16,40 @@
    My toolkit includes <strong>cloud architecture expertise</strong> (Google Certified Professional Cloud Architect), <strong>cybersecurity</strong>, and <strong>infrastructure management</strong>. I’m driven by the opportunity to mentor and empower teams, streamline IT processes, and implement projects that meet and exceed business and user expectations.
 </p>
 
-<p>
-   🌍 Based in Nairobi, Kenya, I'm constantly seeking the next challenge in IT leadership or cloud architecture where I can make a real impact. Let's connect and explore how we can collaborate to achieve your tech goals!
-</p>
-
 
 ---
 
 ### 🔥 Key Interests
+
 <table>
    <tr>
-      <td>💻 <strong>Cybersecurity</strong></td>
-      <td>Data Privacy, Threat Analysis, Compliance</td>
+      <td>☁️ <strong>Cloud Architecture</strong></td>
+      <td>Google Cloud Platform (GCP), AWS, Azure</td>
    </tr>
    <tr>
-      <td>☁️ <strong>Cloud Computing</strong></td>
-      <td>GCP, AWS, Azure</td>
+      <td>🔐 <strong>Cybersecurity</strong></td>
+      <td>Data Privacy, Threat Analysis, Compliance, Risk Mitigation</td>
    </tr>
    <tr>
       <td>🧠 <strong>AI & Machine Learning</strong></td>
-      <td>Neural Networks, Predictive Modeling</td>
+      <td>Neural Networks, Predictive Modeling, Adaptive Systems</td>
    </tr>
    <tr>
-      <td>🔧 <strong>System Administration</strong></td>
-      <td>Automation, Process Optimization</td>
+      <td>👨‍💼 <strong>IT Leadership & Mentorship</strong></td>
+      <td>Team Building, Continuous Learning, High-Impact Solutions</td>
+   </tr>
+   <tr>
+      <td>🔧 <strong>Infrastructure Management</strong></td>
+      <td>Process Optimization, Resource Allocation, System Reliability</td>
+   </tr>
+   <tr>
+      <td>⚙️ <strong>Process Automation</strong></td>
+      <td>Workflow Automation, Efficiency Enhancement, Productivity</td>
    </tr>
 </table>
+
+<p>🌍 <em>Based in Nairobi, Kenya, I’m passionate about leveraging these interests to drive impactful solutions and foster innovation. Let’s connect to explore potential collaborations!</em></p>
+
 
 ---
 
