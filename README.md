@@ -9,7 +9,7 @@
 ### 🌐 About Me
 
 <p>
-   👋 I am a Hands-on IT leader and <strong>certified cloud architect (GCP)</strong> with a passion for building high-performing teams and delivering impactful technical solutions. Throughout my career, I've thrived on solving complex problems and driving operational efficiency across diverse sectors—from fast-paced e-commerce startups to established financial institutions.
+   I am a Hands-on IT leader and <strong>certified cloud architect (GCP)</strong> with a passion for building high-performing teams and delivering impactful technical solutions. Throughout my career, I've thrived on solving complex problems and driving operational efficiency across diverse sectors—from fast-paced e-commerce startups to established financial institutions.
 </p>
 
 <p>
