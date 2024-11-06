@@ -87,7 +87,7 @@
 ### 📫 Get in Touch
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vincentwachira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/vincentwachira/" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"></a>
 </p>
 
 ---
