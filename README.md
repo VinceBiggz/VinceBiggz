@@ -1,16 +1,111 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Vincent Wachira</h1>
 
-<!--
-**VinceBiggz/VinceBiggz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&color=3C76A1&center=true&vCenter=true&lines=Experienced+IT+Professional;Cloud+Architect+and+Consultant;" alt="Typing animation">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 About Me
+
+<p>
+   👋 I am a Hands-on IT leader and <strong>certified cloud architect (GCP)</strong> with a passion for building high-performing teams and delivering impactful technical solutions. Throughout my career, I've thrived on solving complex problems and driving operational efficiency across diverse sectors—from fast-paced e-commerce startups to established financial institutions.
+</p>
+
+<p>
+   My toolkit includes <strong>cloud architecture expertise</strong> (Google Certified Professional Cloud Architect), <strong>cybersecurity</strong>, and <strong>infrastructure management</strong>. I’m driven by the opportunity to mentor and empower teams, streamline IT processes, and implement projects that meet and exceed business and user expectations.
+</p>
+
+<p>
+   🌍 Based in Nairobi, Kenya, I'm constantly seeking the next challenge in IT leadership or cloud architecture where I can make a real impact. Let's connect and explore how we can collaborate to achieve your tech goals!
+</p>
+
+
+---
+
+### 🔥 Key Interests
+<table>
+   <tr>
+      <td>💻 <strong>Cybersecurity</strong></td>
+      <td>Data Privacy, Threat Analysis, Compliance</td>
+   </tr>
+   <tr>
+      <td>☁️ <strong>Cloud Computing</strong></td>
+      <td>GCP, AWS, Azure</td>
+   </tr>
+   <tr>
+      <td>🧠 <strong>AI & Machine Learning</strong></td>
+      <td>Neural Networks, Predictive Modeling</td>
+   </tr>
+   <tr>
+      <td>🔧 <strong>System Administration</strong></td>
+      <td>Automation, Process Optimization</td>
+   </tr>
+</table>
+
+---
+
+### 🛠️ Technologies & Tools
+
+<p align="center">
+  <!-- Cloud Providers -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+
+  <!-- DevOps & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
+
+---
+
+### 📫 Get in Touch
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vincentwachira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/VinceBiggz" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://twitter.com/moriahafrican" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VinceBiggz&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinceBiggz&theme=radical" alt="GitHub Streak">
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VinceBiggz&theme=onedark&row=1&column=6" alt="GitHub Trophies">
+</p>
+
+---
+
+### 💼 Open to Opportunities
+<p>
+  If you're looking for a seasoned IT professional with experience in cloud architecture, cybersecurity, and advanced IT systems, feel free to reach out. I'm open to collaboration, consultancy, and exciting project opportunities in my fields of expertise.
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Markdown%20&%20HTML-blueviolet?style=flat-square">
+</p>
