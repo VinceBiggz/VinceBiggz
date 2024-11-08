@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Vincent Wachira</h1>
+<h1 align="center">Hi there 👋, I'm Vincent</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&color=3C76A1&center=true&vCenter=true&lines=Experienced+IT+Professional;Cloud+Architect+and+Consultant;CyberSecurity+Enthusiast;Process+Automation;CI-CD+Pipelines;" alt="Typing animation">
